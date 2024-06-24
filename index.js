@@ -19,21 +19,20 @@ const config = {
     },
   };
   
-  function preload() {
+function preload() 
+{
 
+}
+  
+function create() 
+{
 
-  }
+}
   
   
-  function create() {
-  
-  
-  }
-  
-  
-  function update() {
-  
-  
-  }
+function update() 
+{ 
+
+}
   
   const game = new Phaser.Game(config);
